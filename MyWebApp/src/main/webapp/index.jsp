@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>This is a Registration Form for Alibaba</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>This is a Registration Form</h1>
+    <p>Please fill in this form to create your account.</p>
     <p>Please rate our service</p>
     <hr>
 
